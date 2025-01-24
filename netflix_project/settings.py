@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-=%0v=6sj6bfbm0*@_=ry$0g5g@k86m=%@by8a5zmfv(hy1f(n^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['bespellbee.pythonanywhere.com']
 
 
 # Application definition
